@@ -5,9 +5,8 @@ natural language processing (NLP) techniques in Python.
 
 ## Prerequisites
 
-1. Node.js
-2. npm
-3. Python
+1. [Node.js](https://nodejs.org/en)
+2. [Python](https://www.python.org/)
 
 ## Local Setup
 
