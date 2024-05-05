@@ -1,7 +1,6 @@
 # PersonaCraft: Customer Personality Analysis with Natural Language Processing using Python
 
-This project is a part of the **Integrated Programming Technologies with Lab 2** course at Our Lady of Fatima University — Quezon City Campus. The project is about analyzing customer personality using
-natural language processing (NLP) techniques in Python.
+This project is a part of the **Integrated Programming Technologies with Lab 2** course at Our Lady of Fatima University — Quezon City Campus. It involves analyzing customer personality using natural language processing (NLP) techniques in Python.
 
 ## Prerequisites
 
